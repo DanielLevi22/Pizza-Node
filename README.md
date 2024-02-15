@@ -21,7 +21,7 @@ npx prisma migrate dev
 
 Inicie o Servidor:
 
-npm start
+npm run dev
 
 Ou usando Docker:
 
