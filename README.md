@@ -1,21 +1,21 @@
 Pizzaria Node Backend
 Bem-vindo ao Pizzaria Node Backend! Este repositório contém o código para o backend de um sistema de pedidos de pizza construído com Node.js e Prisma. Abaixo, você encontrará informações sobre como usar as diferentes rotas e funcionalidades fornecidas por este backend.
-
+<br/>
 Como Começar
 Para usar este backend, siga as etapas abaixo:
-
+<br/>
 Clone este repositório em sua máquina local.
 Instale as dependências necessárias com npm install.
 Configure seu banco de dados no arquivo .env.
 Execute a migração do Prisma com npx prisma migrate dev.
 Inicie o aplicativo com npm dev.
 Alternativamente, você pode usar o Docker e o Docker Compose:
-
+<br/>
 bash
 Copy code
 docker-compose up -d
 Isso iniciará os containers tanto para o servidor Node.js quanto para o banco de dados.
-
+<br/>
 Documentação da API
 1. Registro de Usuário
 http
