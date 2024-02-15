@@ -4,7 +4,7 @@ Bem-vindo ao Pizzaria Node Backend! Este repositório abriga o backend de um sis
 Como Iniciar
 Clone o Repositório:
 
-git clone https://github.com/seu-usuario/pizzaria-node-backend.git
+git clone https://github.com/daniellevi22/pizzaria-node-backend.git
 
 Instale as Dependências:
 
